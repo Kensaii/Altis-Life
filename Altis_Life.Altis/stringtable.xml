@@ -155,6 +155,7 @@
       <Italian>Chiudi</Italian>
       <Portuguese>Fechar</Portuguese>
       <Polish>Zamknij</Polish>
+      <Russian>Закрыть</Russian>
     </Key>
     <Key ID="STR_Global_Sell">
       <Original>Sell</Original>
@@ -163,6 +164,7 @@
       <Italian>Vendi</Italian>
       <Portuguese>Vender</Portuguese>
       <Polish>Sprzedaj</Polish>
+      <Russian>Продать</Russian>
     </Key>
     <Key ID="STR_Global_Buy">
       <Original>Buy</Original>
@@ -171,6 +173,7 @@
       <Italian>Compra</Italian>
       <Portuguese>Comprar</Portuguese>
       <Polish>Kup</Polish>
+      <Russian>Купить</Russian>
     </Key>
     <Key ID="STR_Global_Give">
       <Original>Give</Original>
@@ -179,6 +182,7 @@
       <Italian>Dai</Italian>
       <Portuguese>Dar</Portuguese>
       <Polish>Daj</Polish>
+      <Russian>Передать</Russian>
     </Key>
     <Key ID="STR_Global_Use">
       <Original>Use</Original>
@@ -187,6 +191,7 @@
       <Italian>Usa</Italian>
       <Portuguese>Usar</Portuguese>
       <Polish>Użyj</Polish>
+      <Russian>Использовать</Russian>
     </Key>
     <Key ID="STR_Global_Remove">
       <Original>Remove</Original>
@@ -195,6 +200,7 @@
       <Italian>Rimuovi</Italian>
       <Portuguese>Remover</Portuguese>
       <Polish>Usuń</Polish>
+      <Russian>Убрать</Russian>
     </Key>
     <Key ID="STR_Global_Settings">
       <Original>Settings</Original>
@@ -203,6 +209,7 @@
       <Italian>Impostazioni</Italian>
       <Portuguese>Configurar</Portuguese>
       <Polish>Opcje</Polish>
+      <Russian>Настройки</Russian>
     </Key>
     <Key ID="STR_Global_RentVeh">
       <Original>Rent</Original>
@@ -211,6 +218,7 @@
       <Italian>Affitta</Italian>
       <Portuguese>Alugar</Portuguese>
       <Polish>Wynajmij</Polish>
+      <Russian>Аренда</Russian>
     </Key>
     <Key ID="STR_Global_Retrieve">
       <Original>Retrieve</Original>
@@ -219,6 +227,7 @@
       <Italian>Ritira</Italian>
       <Portuguese>Recuperar</Portuguese>
       <Polish>Odzyskaj</Polish>
+      <Russian>Восстановить</Russian>
     </Key>
     <Key ID="STR_Global_NoSelection">
       <Original>You did not select anything.</Original>
@@ -227,6 +236,7 @@
       <Italian>Non hai selezionato nulla.</Italian>
       <Portuguese>Você não selecionou nada.</Portuguese>
       <Polish>Niczego nie zaznaczyłeś.</Polish>
+      <Russian>Вы ничего не выбрали.</Russian>
     </Key>
     <Key ID="STR_Global_Yes">
       <Original>Yes</Original>
@@ -235,6 +245,7 @@
       <Italian>Si</Italian>
       <Portuguese>Sim</Portuguese>
       <Polish>Tak</Polish>
+      <Russian>Да</Russian>
     </Key>
     <Key ID="STR_Global_No">
       <Original>No</Original>
@@ -243,6 +254,7 @@
       <Italian>No</Italian>
       <Portuguese>Não</Portuguese>
       <Polish>Nie</Polish>
+      <Russian>Нет</Russian>
     </Key>
     <Key ID="STR_Global_Cancel">
       <Original>Cancel</Original>
@@ -251,6 +263,7 @@
       <Italian>Annulla</Italian>
       <Portuguese>Cancelar</Portuguese>
       <Polish>Anuluj</Polish>
+      <Russian>Отмена</Russian>
     </Key>
   </Package>
   <Package name="Admin_Menu">
@@ -261,11 +274,13 @@
       <French>Menu Admin</French>
       <Portuguese>Menu Admin</Portuguese>
       <Polish>Admin Menu</Polish>
+      <Russian>Меню Админа</Russian>
     </Key>
     <Key ID="STR_Admin_Amount">
       <Original>Put the amount you want to compensate:</Original>
       <Portuguese>Coloque a quantidade que você quer compensar:</Portuguese>
       <Polish>Wprowadź wartość rekompensaty</Polish>
+      <Russian>Введите количество которое хотите возместить: </Russian>
     </Key>
     <Key ID="STR_Admin_GetID">
       <Original>Get ID</Original>
@@ -274,6 +289,7 @@
       <Italian>Vedi ID</Italian>
       <Portuguese>Obter ID</Portuguese>
       <Polish>ID gracza</Polish>
+      <Russian>Получить ID</Russian>
     </Key>
     <Key ID="STR_Admin_Spectate">
       <Original>Spectate</Original>
@@ -282,6 +298,7 @@
       <French>Regardez</French>
       <Portuguese>Observar</Portuguese>
       <Polish>Obserwuj</Polish>
+      <Russian>Наблюдать</Russian>
     </Key>
     <Key ID="STR_Admin_Teleport">
       <Original>Teleport</Original>
@@ -290,6 +307,7 @@
       <French>Teleport</French>
       <Portuguese>Teleport</Portuguese>
       <Polish>Teleport</Polish>
+      <Russian>Телепорт</Russian>
     </Key>
     <Key ID="STR_Admin_TpHere">
       <Original>TP Here</Original>
@@ -298,6 +316,7 @@
       <French>TP Ici</French>
       <Portuguese>TP Aqui</Portuguese>
       <Polish>Do Mnie</Polish>
+      <Russian>ТП сюда</Russian>
     </Key>
     <Key ID="STR_Admin_Debug">
       <Original>Debug</Original>
@@ -478,6 +497,7 @@
       <Italian>Preleva</Italian>
       <Portuguese>Sacar</Portuguese>
       <Polish>Wypłać</Polish>
+      <Russian>Снять</Russian>
     </Key>
     <Key ID="STR_ATM_Deposit">
       <Original>Deposit</Original>
@@ -486,6 +506,7 @@
       <Italian>Deposita</Italian>
       <Portuguese>Depositar</Portuguese>
       <Polish>Deopozyt</Polish>
+      <Russian>Положить</Russian>
     </Key>
     <Key ID="STR_ATM_Transfer">
       <Original>Transfer</Original>
@@ -494,6 +515,7 @@
       <Italian>Trasferisci</Italian>
       <Portuguese>Transferir</Portuguese>
       <Polish>Przelew</Polish>
+      <Russian>Перевести</Russian>
     </Key>
     <Key ID="STR_ATM_GreaterThan">
       <Original>You can't deposit more then $999,999 at a time</Original>
@@ -502,6 +524,7 @@
       <Italian>Non puoi depositare più di €999,999 alla volta</Italian>
       <Portuguese>Você não pode transferir mais de R$999.999 em uma transação</Portuguese>
       <Polish>Możesz jednorazowo zdeponować nie więcej niż $999,999 </Polish>
+      <Russian>Вы не можете положить больше чем $999,999 за раз</Russian>
     </Key>
     <Key ID="STR_ATM_notnumeric">
       <Original>The amount entered isn't a numeric value.</Original>
@@ -510,6 +533,7 @@
       <Italian>L'importo inserito non è numerico.</Italian>
       <Portuguese>O valor digitado não é um número.</Portuguese>
       <Polish>Wprwadzona wartość nie jest liczbą</Polish>
+      <Russian>Вы ввели не цифровое значение.</Russian>
     </Key>
     <Key ID="STR_ATM_DepositMSG">
       <Original>You have deposited $%1 into your bank account</Original>
@@ -518,6 +542,7 @@
       <Italian>Hai despositato €%1 nel tuo conto bancario</Italian>
       <Portuguese>Você depositou R$%1 na sua conta bancária</Portuguese>
       <Polish>Zdeponowałeś na koncie bankowym $%1</Polish>
+      <Russian>Вы положили $%1 на ваш банковский счет</Russian>
     </Key>
     <Key ID="STR_ATM_NoneSelected">
       <Original>You need to select someone to transfer to</Original>
@@ -526,6 +551,7 @@
       <Italian>Devi selezionare qualcuno per trasferire fondi</Italian>
       <Portuguese>Você tem que selecionar para quem deseja transferir</Portuguese>
       <Polish>Musisz wybrać odbiorcę przelewu</Polish>
+      <Russian>Вы должны выбрать кого то для перевода</Russian>
     </Key>
     <Key ID="STR_ATM_DoesntExist">
       <Original>The player selected doesn't seem to exist?</Original>
@@ -533,6 +559,7 @@
       <Italian>Sembra che il giocatore selezionato non esista</Italian>
       <Portuguese>O jogador selecionado parece não existir!</Portuguese>
       <Polish>Wybrany gracz wydaje się nie występować w grze</Polish>
+      <Russian>Выбранный игрок возможно больше не существует</Russian>
     </Key>
     <Key ID="STR_ATM_TransferMax">
       <Original>You can't transfer more then $999,999</Original>
@@ -541,6 +568,7 @@
       <Italian>Non puoi trasferire più di €999.000 alla volta</Italian>
       <Portuguese>Você pode trasferir no máximo R$999.999.</Portuguese>
       <Polish>Możesz jednorazowo przelać nie więcej niż $999,999 </Polish>
+      <Russian>Вы не можете перевести больше чем $999,999</Russian>
     </Key>
     <Key ID="STR_ATM_NotEnoughFunds">
       <Original>You don't have that much in your bank account!</Original>
@@ -549,6 +577,7 @@
       <Italian>Non hai fondi sufficienti nel tuo conto in banca!</Italian>
       <Portuguese>Você não tem todo esse dinhero na sua conta bancária</Portuguese>
       <Polish>Nie masz tyle środków na koncie!</Polish>
+      <Russian>У вас нету введенной суммы на банковском счете!</Russian>
     </Key>
     <Key ID="STR_ATM_SentMoneyFail">
       <Original>You do not have enough money in your bank account, to transfer $%1 you will need $%2 as a tax fee.</Original>
@@ -557,6 +586,7 @@
       <Italian>Non hai fondi sufficienti nel tuo conto in banca, per trasferire €%1 necessiti di €%2 per pagare la tassa di traferimento.</Italian>
       <Portuguese>Você não tem dinheiro suficiente na suca conta bancária. Para trasferir R$%1 você irá pagar R$%2 de taxa</Portuguese>
       <Polish>Nie masz wystarczająco dużo środków na końcie, do przelewu $%1 będziesz potrzebował jeszcze $%2 na opłatę</Polish>
+      <Russian>У вас не достаточно средств на банковсом счете, для перевода $%1 вам нужно $%2 за оплату налога.</Russian>
     </Key>
     <Key ID="STR_ATM_SentMoneySuccess">
       <Original>You have transfered $%1 to %2.\n\nA tax fee of $%3 was taken for the wire transfer.</Original>
